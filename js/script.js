@@ -1,14 +1,14 @@
 
 //digitare il nome via prompt
-var nome = prompt("scrivi il tuo nome");
+var nome = prompt("scrivi il tuo nome", "Nome");
 console.log(nome);
 
 //digitare il cognome via prompt
-var cognome = prompt("scrivi il tuo cognome");
+var cognome = prompt("scrivi il tuo cognome", "Cognome");
 console.log(cognome);
 
 //digitare il colore preferito via prompt
-var colorePreferito = prompt("scrivi il tuo colore preferito");
+var colorePreferito = prompt("scrivi il tuo colore preferito", "Colore");
 console.log(colorePreferito);
 
 //creazione password
