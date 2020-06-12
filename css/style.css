@@ -64,3 +64,12 @@ h1,h2,h3{
   80% {transform: scale(1.1);}
   100% {transform: scale(1);}
 }
+
+
+.no-flickr {
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  transform: translateZ(0);
+}
