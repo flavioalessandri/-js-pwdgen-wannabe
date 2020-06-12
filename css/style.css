@@ -17,7 +17,8 @@ h1,h2,h3{
 }
 
 #my_password{
-  border-bottom: 1px solid #92e5a1;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #92e5a1;
   color:white;
   font-size: 1.5em;
   text-decoration: none;

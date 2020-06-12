@@ -15,7 +15,7 @@ console.log(colorePreferito);
 var password = nome + cognome + colorePreferito + "19";
 console.log(password);
 
-alert("Quella di seguito sarà la tua password" , password);
+alert("PASSWORD: " + password);
 
 //restituzione del valore password
 document.getElementById("my_password_text").innerHTML = "Copia e conserva!" ;
